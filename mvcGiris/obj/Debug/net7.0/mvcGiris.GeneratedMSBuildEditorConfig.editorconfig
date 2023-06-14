@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mvcGiris
+build_property.RootNamespace = mvcGiris
+build_property.ProjectDir = C:\Users\90537\Drive'ım\softwareNotes\MVC_ETicaret\mvcTic\mvcGiris\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\90537\Drive'ım\softwareNotes\MVC_ETicaret\mvcTic\mvcGiris
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Home/myView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxteVZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/mvcTic/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbXZjVGljXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/mvcTic/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbXZjVGljXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/Categories/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmllc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX2NhdGVnb3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX2Zvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX2hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX25hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_productAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX3Byb2R1Y3RBbGVydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/Shared/Components/_productCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX3Byb2R1Y3RDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/90537/Drive'ım/softwareNotes/MVC_ETicaret/mvcTic/mvcGiris/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

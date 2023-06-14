@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mvcGiris",
+    "\\mvcGiris\\Controllers",
+    "\\mvcGiris\\Views",
+    "\\mvcGiris\\Views\\Home",
+    "\\mvcTic.business",
+    "\\mvcTic.business\\Concrete",
+    "\\mvcTic.data",
+    "\\mvcTic.data\\Concrete",
+    "\\mvcTic.data\\Concrete\\EFCore"
+  ],
+  "SelectedNode": "\\mvcGiris\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

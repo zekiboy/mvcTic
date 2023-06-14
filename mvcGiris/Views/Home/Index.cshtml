@@ -1,0 +1,23 @@
+@model mvcGiris.ViewModels.ProductListViewModel
+
+@section MessageBox
+{
+    <div class="alert alert-warning text-center m-0"> Mesajınız var</div>
+}
+
+
+        @if (Model.Products.Count==0)
+        {
+            @await Html.PartialAsync("~/Views/Shared/Components/_productAlert.cshtml")
+        }
+        else
+        {
+            <div class="row">
+                @foreach (var product in Model.Products)
+                {
+                    <div class="col-md-3">
+                     @await Html.PartialAsync("~/Views/Shared/Components/_productCard.cshtml",product)
+                    </div>
+                }
+            </div>
+        }

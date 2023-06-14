@@ -1,0 +1,32 @@
+<form action="/product/create_add" method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" name="Name" class="form-control">
+    </div>
+    <div class="form-grup">
+        <label for="Price">Price</label>
+        <input type="text" name="Price" class="form-control">
+    </div>
+    <div class="form-grup">
+        <label for="Description">Description</label>
+        <textarea name="Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="imgLink">imgLink</label>
+        <textarea name="imgLink" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="CategoryId">CategoryId</label>
+        <select name="CategoryId" asp-items="@ViewBag.Categories" class="form-control">
+            <option selected disabled>Kategori Seçiniz</option>
+            @* <option value="1">Telefon</option>
+            <option value="2">Bilgisayar</option>
+            <option value="3">Elektronik</option> *@
+        </select>
+        @* <textarea name="CategoryId" class="form-control"></textarea> *@
+    </div>
+
+    <button type="submit" class="btn btn-danger mt-2">Ekle</button>
+
+    @* type submit olmaalı. böyle olduğunda 1. satırdaki form action="/product/create_add" metoduna gider *@
+</form>

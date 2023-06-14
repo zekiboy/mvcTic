@@ -1,0 +1,37 @@
+@* @model Product *@
+@model ProductDetailModel
+    
+    <div class="row">
+        <div class="col-md-3">
+            @await Component.InvokeAsync("Categories")
+        </div>  
+
+        <div class="col-md-9">
+            @* <div class="card mb-3"> *@
+                <div class="card-body">
+                    <div class="row no-gutters">
+                        <div class="col-md-3">
+                            <img src="~/img/@Model.Product.imgLink" class="card-img">
+                        </div>
+                        <div class="col-md-9">
+
+                            <h5 class="card-title">@Model.Product.Name</h5>
+
+                            @foreach (var item in Model.Categories)
+                            {
+                                <a href="#" class="btn btn-link -0 mb-3"> @item.Name </a>
+                            }
+                            <p class="card-text">@Model.Product.Description</p>
+                            <p class="card-text">
+                                <small class="text-muted">3 Days Ago</small>
+                            </p>
+                            <i class="fa fa-turkish-lira">@Model.Product.Price</i>                          
+                        </div>
+                    </div>
+                </div>
+            @* </div> *@
+        </div>  
+    </div>
+
+
+

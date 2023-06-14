@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\Python.png",
+      "PackagePath": "staticwebassets\\img\\Python.png"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\autocad.jpg",
+      "PackagePath": "staticwebassets\\img\\autocad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\cSharp.png",
+      "PackagePath": "staticwebassets\\img\\cSharp.png"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\catia.png",
+      "PackagePath": "staticwebassets\\img\\catia.png"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\js.png",
+      "PackagePath": "staticwebassets\\img\\js.png"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\kırmızı_iphone.jpg",
+      "PackagePath": "staticwebassets\\img\\kırmızı_iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\max3d.png",
+      "PackagePath": "staticwebassets\\img\\max3d.png"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\resim.jpg",
+      "PackagePath": "staticwebassets\\img\\resim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\90537\\Drive'ım\\softwareNotes\\MVC_ETicaret\\mvcTic\\mvcGiris\\wwwroot\\img\\solidworks.png",
+      "PackagePath": "staticwebassets\\img\\solidworks.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.mvcGiris.props",
+      "PackagePath": "build\\mvcGiris.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.mvcGiris.props",
+      "PackagePath": "buildMultiTargeting\\mvcGiris.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.mvcGiris.props",
+      "PackagePath": "buildTransitive\\mvcGiris.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.mvcGiris.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

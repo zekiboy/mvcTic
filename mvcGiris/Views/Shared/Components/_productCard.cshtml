@@ -1,0 +1,18 @@
+@* @using mvcGiris.Models *@
+@* @model Product *@
+@model mvcGiris.entity.Product
+
+<div class="col-md-12">
+    <div class="card">
+        <img src="~/img/@Model.imgLink" class="card-img-top">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Description</p>
+        <i class="fa fa-turkish-lira">@Model.Price</i>
+        <div class="card-footer text-center"> 
+            <a href="/mvcTic/details/@Model.ProductId" class="btn btn-primary">İncele</a>
+            <a href="mvcGiris/addtocart/@Model.ProductId" class="btn btn-primary btn-sm">Sepete Ekle</a>
+        </div>
+    </div>
+</div>
+
+    @* <a asp-controller="Product" asp-action="Details" aps-route-id="@Model.ProductId" class="btn btn-primary">İncele</a> *@

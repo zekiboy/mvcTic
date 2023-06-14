@@ -1,0 +1,25 @@
+@* @model List<Category> *@
+ <div class="list-group">
+    @foreach (var Categories in Model)
+    {
+        @* <a asp-controller="mvcTic" asp-action="list" asp-route-id="@Categories.CategoryId" class="list-group-item-action @(ViewBag.SelectedCategory==Categories.CategoryId.ToString()?"active":"")">@Categories.Name</a> *@
+        <a href="http://localhost:5069/mvcTic/list/@Categories.CategoryId" class="list-group-item list-group-item-action @(ViewBag.SelectedCategory==@Categories.CategoryId.ToString()?"active":"")">@Categories.Name</a>
+
+    }
+ </div>
+
+ 
+ 
+ @* controller içerisindeki her metodda ayrı ayrı veri çekmemek için, viewcomponents yapısını kullanıyouz
+ önce vievcomponents klasörünü oluşturduk sonra burayı *@
+ @* @model List<Category> *@
+    
+@* <div class="list-group">
+    @foreach (var Categories in Model)
+    {
+        //Categories -> CategoryRepository içersindeki  public static List<Category>? Categories çekmesi için 
+            //var ile tutmasına rağmen aynı isimle yaptık
+        <a href="http://localhost:5069/product/list/@Categories.CategoryId" class="list-group-item list-group-item-action @(ViewBag.SelectedCategory==@Categories.CategoryId.ToString()?"active":"")">@Categories.Name</a>
+        @* asp-controller="Product" asp-action="list" asp-route-id="@Categories.CategoryId" 
+    }
+</div> *@
